@@ -220,3 +220,14 @@ header .buttons i {
     height: 100%;
     object-fit: contain;
 }
+
+footer{
+    font-size: 0.7rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: rgb(25, 212, 15) ;
+    color: white;
+    padding: 9px 20px;
+}
