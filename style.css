@@ -223,7 +223,6 @@ header .buttons i {
 
 footer{
     font-size: 0.7rem;
-    display: flex;
     justify-content: center;
     background: rgb(25, 212, 15) ;
     color: white;
